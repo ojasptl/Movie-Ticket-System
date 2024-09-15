@@ -65,6 +65,6 @@ This project implements a Variational Autoencoder (VAE) using PyTorch. The archi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/VAE-PyTorch.git
-   cd VAE-PyTorch
+   git clone (https://github.com/sanepunk/VAE-SkipNet.git)
+   cd VAE-SkipNet
 
