@@ -6,6 +6,7 @@ This project implements a Generative Adversarial Network (GAN) using PyTorch. Th
 
 ## Architecture Overview
 
+![GAN_architecture](GAN_architecture.jpg)
 ### Generator
 The **Generator** takes in random noise (latent vector) and applies a series of transpose convolutions, batch normalization, and activation functions to generate realistic images.
 
